@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there It's me xD👋
 
-<!--
-**nirajxhrestha/nirajxhrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/nirajxhrestha/nirajxhrestha.svg)](http://hits.dwyl.com/nirajxhrestha/nirajxhrestha)
 
-Here are some ideas to get you started:
+Gist About me 🖥️ </>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎤 I am a Programming and Networking Enthusiastic
+- 🛸 Learning everyday, currently learning Ethical Hacking
+- 🌋 I’m always looking for challenging oppurtunities ahead.
+- 📺 Share things I do, watch in my Youtube Channel [Take a Peek](https://www.youtube.com/channel/UCmMZHe5L3Q70UNv0cjuCE5Q?sub_confirmation=1)
+- 📬 How to reach me: Let's get in touch!
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
+
+## Other places you can find me
+
+🎥 [Subscribe my Youtube] (https://www.youtube.com/channel/UCmMZHe5L3Q70UNv0cjuCE5Q?sub_confirmation=1)
+
+🐣 [See my Tweet] ()
+
+###
+
+I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of Developer and Networking Enthusiast. I like front-end development with C# .NET and love to use KALI LINUX. I love trying out new techs and update with modern tools helping to make our lives more easier.
+
+Happy coding !!
