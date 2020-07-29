@@ -8,7 +8,6 @@ Gist About me 🖥️ </>
 - 🛸 Learning everyday, currently learning Ethical Hacking
 - 🌋 I’m always looking for challenging oppurtunities ahead.
 - 📺 Share things I do, watch in my Youtube Channel [Take a Peek](https://www.youtube.com/channel/UCmMZHe5L3Q70UNv0cjuCE5Q?sub_confirmation=1)
-- 📬 How to reach me: Let's get in touch!
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
 ## Other places you can find me
@@ -16,6 +15,12 @@ Gist About me 🖥️ </>
 🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UCmMZHe5L3Q70UNv0cjuCE5Q?sub_confirmation=1)
 
 🐣 [See my Tweet]()
+
+Contact Me 📱
+Website - [xdwolf.tk](http://xdwolf.tk)
+Twitter - [@XDW0LF](https://twitter.com/XDW0LF)
+Discord - ! XD・WOLF !#0188
+Email - nirajxhrestha@yandex.com
 
 ###
 
