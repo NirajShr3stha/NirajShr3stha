@@ -13,9 +13,9 @@ Gist About me 🖥️ </>
 
 ## Other places you can find me
 
-🎥 [Subscribe my Youtube] (https://www.youtube.com/channel/UCmMZHe5L3Q70UNv0cjuCE5Q?sub_confirmation=1)
+🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UCmMZHe5L3Q70UNv0cjuCE5Q?sub_confirmation=1)
 
-🐣 [See my Tweet] ()
+🐣 [See my Tweet]()
 
 ###
 
