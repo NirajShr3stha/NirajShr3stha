@@ -13,7 +13,6 @@ Gist About me 🖥️ </>
 ## Other places you can find me
 
 🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UCmMZHe5L3Q70UNv0cjuCE5Q?sub_confirmation=1)
-
 🐣 [Gamer ? Add me on STEAM](https://steamcommunity.com/id/nirajxhrestha/)
 
 ## Contact Me 📱
