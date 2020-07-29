@@ -5,7 +5,7 @@
 Gist About me 🖥️ </>
 
 - 🎤 I am a Programming and Networking Enthusiastic
-- 🛸 Learning everyday, currently learning Ethical Hacking
+- 🛸 Learning everyday, currently learning [Ethical Hacking](https://www.udemy.com/share/102JvQB0ofd1lSRXo=/)
 - 🌋 I’m always looking for challenging oppurtunities ahead.
 - 📺 Share things I do, watch in my Youtube Channel [Take a Peek](https://www.youtube.com/channel/UCmMZHe5L3Q70UNv0cjuCE5Q?sub_confirmation=1)
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
