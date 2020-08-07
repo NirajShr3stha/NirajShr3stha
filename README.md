@@ -2,9 +2,9 @@
 
 ### Hi There It's Me xD♠
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajxhrestha"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajxhrestha"/> ![XD's github stats](https://github-readme-stats.vercel.app/api?username=nirajxhrestha&count_private=true&show_icons=true&&hide_border=true)
  
-![XD's github stats](https://github-readme-stats.vercel.app/api?username=nirajxhrestha&count_private=true&show_icons=true&&hide_border=true)
+
 
 Gist About me 🖥️ </>
 
