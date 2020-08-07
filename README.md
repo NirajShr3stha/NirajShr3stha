@@ -3,6 +3,8 @@
 ### Hi There It's Me xD♠
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajxhrestha"/>
+ 
+ <!-- ![github card perfect name](https://github-readme-stats.vercel.app/api?username=nirajxhrestha&count_private=true&show_icons=true&&hide_border=true)
 
 Gist About me 🖥️ </>
 
