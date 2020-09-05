@@ -29,6 +29,6 @@ Gist About me 🖥️ </>
 
 ###
 
-I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of Developer and Networking Enthusiast. I like front-end development with C# .NET and love to use linux. I love trying out new techs and update with modern tools helping to make our lives more easier.
+I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of Developer and Networking Enthusiast. I like desktop development with C# .NET and love to use linux as well as do frontend website designing. I love trying out new techs and update with modern tools helping to make our lives more easier.
 
 ## Happy Coding !!
