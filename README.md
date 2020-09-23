@@ -2,7 +2,7 @@
 
 ### Hi There It's Me XD♠
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajxhrestha"/> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajxhrestha&layout=compact"/> 
  
  ![XD's github stats](https://github-readme-stats.vercel.app/api?username=nirajxhrestha&show_icons=true&theme=radical)
 
