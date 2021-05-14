@@ -21,7 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nirajxhrestha&show_icons=true&theme=radical" />
 </p>
 
+<p align="center">
 ### Spotify Playing 🎧
+</p>
 <p align="center">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default"/>
 </p>
