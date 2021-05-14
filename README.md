@@ -17,7 +17,9 @@
   <img src="http://xdwolf.wtf/discord.png"/>
 </p>
  
+<p align="center">
  ![XD's github stats](https://github-readme-stats.vercel.app/api?username=nirajxhrestha&show_icons=true&theme=radical)
+</p>
 
 ### Spotify Playing 🎧
 <p align="center">
