@@ -9,9 +9,6 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png"></code>&nbsp;
  </p>
 <br>
-<br>
-<br>
-<br>
  <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajxhrestha&layout=compact"/> 
  </p>
