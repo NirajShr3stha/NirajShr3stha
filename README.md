@@ -1,6 +1,6 @@
- <p align="center">
-<h1>Hello there! It's Me ×D </h1>
-</p>
+<h1 align="center">
+ Hello there! It's Me ×D 
+</h1>
 
  <p align="center">
 Languages:
