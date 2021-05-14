@@ -1,9 +1,9 @@
  <p align="center">
-### Hi !!! There It's Me ×D
+Hi !!! There It's Me ×D
 </p>
 
  <p align="center">
-### Languages:
+Languages:
  <br>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp;
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"></code>&nbsp;
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-### Spotify Playing 🎧
+Spotify Playing 🎧
 </p>
 <p align="center">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default"/>
