@@ -1,9 +1,9 @@
+ <p align="center">
 ![ok](https://user-images.githubusercontent.com/62610377/91529483-185e8500-e929-11ea-9c48-1c8cd70fa780.gif)
 
 ### Hi !!! There It's Me ×D
 
 ### Languages:
- <p align="center">
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp;
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"></code>&nbsp;
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png"></code>&nbsp;
