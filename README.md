@@ -20,7 +20,7 @@
 
 ### Spotify Playing 🎧
 <p align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default)]
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default"/>
 </p>
 
 Gist About me 🖥️ </>
