@@ -1,9 +1,10 @@
  <p align="center">
-Hi !!! There It's Me ×D
+Hello there! It's Me ×D
 </p>
 
  <p align="center">
 Languages:
+ <br>
  <br>
 <code><img height="20" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png"></code>&nbsp;
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp;
