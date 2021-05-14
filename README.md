@@ -3,7 +3,6 @@
 ### Hi !!! There It's Me ×D
 
 ### Languages:
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/150px-C_Sharp_logo.svg.png"></code>&nbsp;
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp;
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"></code>&nbsp;
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png"></code>&nbsp;
@@ -13,10 +12,16 @@
 <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajxhrestha&layout=compact"/> 
  
+ <p align="center">
+  <img src="http://xdwolf.wtf/discord.png"/>
+</p>
+ 
  ![XD's github stats](https://github-readme-stats.vercel.app/api?username=nirajxhrestha&show_icons=true&theme=radical)
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31e6fkz3bfqatdhcgfgqitn5wznm)
+<p align="center">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default)
+</p>
 
 Gist About me 🖥️ </>
 
