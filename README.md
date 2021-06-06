@@ -48,7 +48,7 @@ Gist About me 🖥️ </>
 - Website - [niraj-shrestha.com](https://niraj-shrestha.com)
 - Twitter - [@XDW0LF](https://twitter.com/XDW0LF)
 - Discord - ᙭ᗪᗯᗝᒪᖴ#1798
-- Email - nirajxhrestha@yandex.com###
+- Email - nirajxhrestha@yandex.com
 
 
 ## Happy Coding !!
