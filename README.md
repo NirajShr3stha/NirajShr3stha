@@ -51,5 +51,6 @@ Gist About me 🖥️ </>
 - Discord - ᙭ᗪᗯᗝᒪᖴ#1798
 - Email - nirajxhrestha@yandex.com
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nirajxhrestha&theme=onedark)]
 
 ## Happy Coding !!
