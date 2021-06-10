@@ -1,6 +1,6 @@
-<h1 align="center">
- Hello there! It's Me ×D 
-</h1>
+<div align="center">
+   <h1>Hello there, I'm <a href="http://niraj-shrestha.com">Niraj</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
 <br>
 
