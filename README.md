@@ -62,4 +62,4 @@ Gist About me 🖥️ </>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nirajxhrestha&theme=onedark)
 
-## ⚡️Stay awesome!⚡️
+## <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
