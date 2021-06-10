@@ -2,6 +2,12 @@
    <h1>Hello there, I'm <a href="http://niraj-shrestha.com">Niraj</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+<p align='center'>
+   <a href="157.240.198.35"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/XDW0LF"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
+ 
 <br>
 
  <p align="center">
@@ -17,7 +23,7 @@
 </p>
 
 <p align="center">
-Spotify Playing 🎧
+ - Spotify Playing 🎧
 </p>
 <p align="center">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default"/>
@@ -41,19 +47,19 @@ Spotify Playing 🎧
   <img src="https://i.ibb.co/5T1qpfC/desktop.png" alt="desktop" style="vertical-align:top; margin:4px">
 </p>
 
-Gist About me 🖥️ </>
+ - Gist About me 🖥️ </>
 
 - 🎤 I am a Programming and Networking Enthusiastic
 - 🛸 Learning everyday, currently learning [Reverse Engineering](https://www.udemy.com/course/reversing-software-protection/)
 - 🌋 I’m always looking for challenging oppurtunities ahead.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
-## Other places you can find me
+##  - Other places you can find me
 
 - 🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UCcf72iQJKORj85hlshkMo8g)
 - 🐣 [Gamer ? Add me on STEAM](https://steamcommunity.com/id/XDW0LF/)
 
-## Contact Me 📱
+##  - Contact Me 📱
 
 - Website - [niraj-shrestha.com](https://niraj-shrestha.com)
 - Twitter - [@XDW0LF](https://twitter.com/XDW0LF)
