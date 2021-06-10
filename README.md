@@ -53,4 +53,4 @@ Gist About me 🖥️ </>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nirajxhrestha&theme=onedark)
 
-## Happy Coding !!
+## ⚡️Stay awesome!⚡️
