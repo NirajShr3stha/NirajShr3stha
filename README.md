@@ -39,7 +39,6 @@
   <img src="https://i.ibb.co/vV90CJg/php.png" alt="php" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/cLbnXVc/csharp.png" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/R6CjcQB/python.png" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://i.ibb.co/tqdjft1/chrome.png" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/Qm9XSMN/cloud.png" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/hyWG6yG/visualstudio-code.png" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/CMSfqkZ/visualstudio.png" alt="visualstudio" style="vertical-align:top; margin:4px">
