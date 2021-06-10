@@ -3,9 +3,10 @@
 </div>
 
 <p align='center'>
-   <a href="157.240.198.35"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/XDW0LF"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="13.107.42.14"><img height="30" src="https://i.ibb.co/K9PXVCp/linkedin.png"></a>&nbsp;&nbsp;
+   <a href="https://twitter.com/XDW0LF"><img height="30" src="https://i.ibb.co/N2CZJCJ/twitter.png"></a>&nbsp;&nbsp;
+   <a href="https://open.spotify.com/user/31e6fkz3bfqatdhcgfgqitn5wznm?si=b2e0e5ec4d604659"><img height="30" src="https://i.ibb.co/99DSp1v/spotify.png"></a>&nbsp;&nbsp;
+   <a href="https://medium.com/@xdwolf"><img height="30" img src="https://i.ibb.co/SfBFbww/medium.png" alt="medium"></a>&nbsp;&nbsp;
  </p>
  
 <br>
