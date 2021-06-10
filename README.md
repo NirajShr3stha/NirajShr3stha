@@ -17,7 +17,7 @@ Languages:
  </p>
  
  <p align="center">
-  <img src="https://niraj-shrestha.com/discord.png" />
+  <img src="http://xdwolf.wtf/discord.png" />
 </p>
  
 <p align="center">
