@@ -30,6 +30,7 @@
 
 <br>
 ### - Discord
+
  <a href="invite.gg/xdwolf">
   <img src="https://icecube-eu-828.icedrive.io/thumbnail?p=3F1v%2FedUeB3kJiUUYoJVPlq2uaKePOaLt4mm%2B2CRfkn2eYbG9r8hvdssPsfoVQezHJC3GU3h%2Bpczd9FR80Uyz1M6HOc8fopwMNZRvewNTGogJZRXwVaeULaGjApuRL7i&w=1280&h=1280&m=cropped" />
 </a>
