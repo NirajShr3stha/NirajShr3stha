@@ -42,11 +42,6 @@
 - 🌋 I’m always looking for challenging oppurtunities ahead.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
-##  - Other places you can find me
-
-- 🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UCcf72iQJKORj85hlshkMo8g)
-- 🐣 [Gamer ? Add me on STEAM](https://steamcommunity.com/id/XDW0LF/)
-
 ##  - Contact Me 📱
 
 - Website - [niraj-shrestha.com](https://niraj-shrestha.com)
