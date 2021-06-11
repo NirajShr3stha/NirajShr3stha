@@ -70,3 +70,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nirajxhrestha&theme=onedark)
 
 ## <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+#### - Extra Pins 📌
+   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=nirajxhrestha&repo=https://github.com/nirajxhrestha/KEY-AUTH)](
