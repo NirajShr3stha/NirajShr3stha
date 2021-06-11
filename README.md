@@ -33,13 +33,6 @@
 </p>
 <br>
 
-<p align="center">
-#### - Spotify Playing 🎧
-</p>
-<p align="center">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default"/>
-</p>
-
 #### - Gist About me 🖥️ </>
 
 - 🎤 I am a Programming and Networking Enthusiastic
@@ -53,6 +46,13 @@
 - Twitter - [@XDW0LF](https://twitter.com/XDW0LF)
 - Discord - ᙭ᗪᗯᗝᒪᖴ#1798
 - Email - nirajxhrestha@yandex.com
+
+<p align="center">
+#### - Spotify Playing 🎧
+</p>
+<p align="center">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default"/>
+</p>
 
 <p align="center">
   <a>
