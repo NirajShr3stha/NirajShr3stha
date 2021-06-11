@@ -50,7 +50,7 @@
 - Email - nirajxhrestha@yandex.com
 
 <p align="center">
-#### - Spotify Playing 🎧
+#### - Vibing to 🎧
 </p>
 <p align="center">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default"/>
