@@ -4,7 +4,9 @@
   </a>
 </h1>
 
-![](https://i.ibb.co/VShHncT/header.png)
+<a align="center">
+  ![](https://i.ibb.co/VShHncT/header.png)
+</a>
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=nirajxhrestha"/>
