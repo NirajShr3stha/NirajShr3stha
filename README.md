@@ -35,7 +35,7 @@
 </p>
 <br>
 
-#### - Gist About me 🖥️ </>
+## - Gist About me 🖥️ </>
 
 - 🎤 I am a Programming and Networking Enthusiastic
 - 🛸 Learning everyday, currently learning [Reverse Engineering](https://www.udemy.com/course/reversing-software-protection/)
