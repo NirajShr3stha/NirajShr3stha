@@ -1,6 +1,8 @@
-<div align="center">
-   <h1>Hello there, I'm <a href="http://niraj-shrestha.com">Niraj</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niraj+Shrestha....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <p align='center'>
    <a href="http://13.107.42.14/"><img height="30" src="https://i.ibb.co/K9PXVCp/linkedin.png"></a>&nbsp;&nbsp;
