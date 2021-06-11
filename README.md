@@ -49,9 +49,9 @@
 - Discord - ᙭ᗪᗯᗝᒪᖴ#1798
 - Email - nirajxhrestha@yandex.com
 
-<p align="center">
-#### - Vibing to 🎧
-</p>
+<h4 align="center">
+  - Vibing to 🎧
+</h4>
 <p align="center">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default"/>
 </p>
