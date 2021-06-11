@@ -32,7 +32,7 @@
   <img src="https://i.ibb.co/5T1qpfC/desktop.png" alt="desktop" style="vertical-align:top; margin:4px">
 </p>
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nirajxhrestha&theme=highcontrast)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nirajxhrestha&theme=highcontrast)]
 
 <p align="center">
 #### - Spotify Playing 🎧
