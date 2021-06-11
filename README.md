@@ -4,6 +4,10 @@
   </a>
 </h1>
 
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=nirajxhrestha"/>
+</p>
+
 <p align='center'>
    <a href="http://13.107.42.14/"><img height="30" src="https://i.ibb.co/K9PXVCp/linkedin.png"></a>&nbsp;&nbsp;
    <a href="https://twitter.com/XDW0LF"><img height="30" src="https://i.ibb.co/N2CZJCJ/twitter.png"></a>&nbsp;&nbsp;
