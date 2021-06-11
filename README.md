@@ -49,7 +49,7 @@
 - Discord - ᙭ᗪᗯᗝᒪᖴ#1798
 - Email - nirajxhrestha@yandex.com
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=nirajxhrestha&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=nirajxhrestha&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 ## <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
