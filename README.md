@@ -11,9 +11,7 @@
    <a href="https://mrshrestha.medium.com/"><img height="30" img src="https://i.ibb.co/SfBFbww/medium.png" alt="medium"></a>&nbsp;&nbsp;
  </p>
  
-<br>
 <h3> - Languages and Tools... </h3>
-
 <p align="center">
   <!-- icons  -->
   <img src="https://i.ibb.co/4KRXRNK/html.png" alt="html" style="vertical-align:top; margin:4px">    
