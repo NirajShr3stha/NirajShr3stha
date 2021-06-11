@@ -73,3 +73,6 @@
 
 #### - Extra Pins 📌
    [![Card](https://github-readme-stats.vercel.app/api/pin/?username=nirajxhrestha&repo=KEY-AUTH)
+   
+[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=nirajxhrestha)]
+
