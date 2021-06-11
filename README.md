@@ -5,7 +5,7 @@
 </h1>
 
 <a align="center">
-  ![](https://i.ibb.co/VShHncT/header.png)
+  <img src="https://i.ibb.co/VShHncT/header.png">
 </a>
 
 <p align="center">
