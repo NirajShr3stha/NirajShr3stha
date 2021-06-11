@@ -32,15 +32,6 @@
   <img src="https://i.ibb.co/5T1qpfC/desktop.png" alt="desktop" style="vertical-align:top; margin:4px">
 </p>
 <br>
-<p align="center">
-  <a>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=nirajxhrestha&theme=react&background=0d1117&border=666">
-  </a>
-  <br>
-  <a>
-    <img src="https://activity-graph.herokuapp.com/graph?username=nirajxhrestha&theme=react-dark&hide_border=true">
-  </a>
-</p>
 
 <p align="center">
 #### - Spotify Playing 🎧
@@ -62,6 +53,16 @@
 - Twitter - [@XDW0LF](https://twitter.com/XDW0LF)
 - Discord - ᙭ᗪᗯᗝᒪᖴ#1798
 - Email - nirajxhrestha@yandex.com
+
+<p align="center">
+  <a>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=nirajxhrestha&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a>
+    <img src="https://activity-graph.herokuapp.com/graph?username=nirajxhrestha&theme=react-dark&hide_border=true">
+  </a>
+</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=nirajxhrestha&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
