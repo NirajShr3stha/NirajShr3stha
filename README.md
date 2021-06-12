@@ -45,7 +45,7 @@
 ##  - Contact Me 📱
 
 - Website - [niraj-shrestha.com](https://niraj-shrestha.com)
-- Discord - XDWOLF#1798
+- Discord - XDWOLF#0001
 - Email - nirajxhrestha@yandex.com
 
 <h3 align="center">
