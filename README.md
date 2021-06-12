@@ -45,13 +45,12 @@
 ##  - Contact Me 📱
 
 - Website - [niraj-shrestha.com](https://niraj-shrestha.com)
-- Twitter - [@XDW0LF](https://twitter.com/XDW0LF)
-- Discord - ᙭ᗪᗯᗝᒪᖴ#1798
+- Discord - XDWOLF#1798
 - Email - nirajxhrestha@yandex.com
 
-<h4 align="center">
+<h3 align="center">
   - Vibing to 🎧
-</h4>
+</h3>
 <p align="center">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default"/>
 </p>
