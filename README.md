@@ -38,14 +38,14 @@
 ## - Gist About me 🖥️ </>
 
 - 🎤 I am a Programming and Networking Enthusiastic
-- 🛸 Learning everyday, currently learning [Reverse Engineering](https://www.udemy.com/course/reversing-software-protection/)
+- 🛸 Learning everyday, currently learning [JS]
 - 🌋 I’m always looking for challenging oppurtunities ahead.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
 ##  - Contact Me 📱
 
 - Website - [niraj-shrestha.com](https://niraj-shrestha.com)
-- Discord - [XDWOLF#0001](https://invite.gg/xdwolf)
+- Discord - [XDWOLF#1337](https://invite.gg/xdwolf)
 - Email - nirajxhrestha@yandex.com
 
 <h3 align="center">
