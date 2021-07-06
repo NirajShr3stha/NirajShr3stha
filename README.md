@@ -33,7 +33,6 @@
   <img src="https://i.ibb.co/mXYcqC8/security.png" alt="security" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/5T1qpfC/desktop.png" alt="desktop" style="vertical-align:top; margin:4px">
 </p>
-<br>
 
 ## - Gist About me 🖥️ </>
 
