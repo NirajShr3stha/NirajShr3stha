@@ -45,7 +45,7 @@
 
 - Website - [niraj-shrestha.com](https://niraj-shrestha.com)
 - Discord - [XDWOLF#1337](https://invite.gg/xdwolf)
-- Email - nirajxhrestha@yandex.com
+- Email - mrshrestha@protonmail.com
 
 <h3 align="center">
   - Vibing to 🎧
