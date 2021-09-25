@@ -44,7 +44,7 @@
 ##  - Contact Me 📱
 
 - Website - [niraj-shrestha.com](https://niraj-shrestha.com)
-- Discord - [XDWOLF#9762](https://invite.gg/xdwolf)
+- Discord - [MrWolf#9771](https://invite.gg/xdwolf)
 - Email - mrshrestha@protonmail.com
 
 <h3 align="center">
