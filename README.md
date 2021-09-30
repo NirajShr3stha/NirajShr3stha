@@ -43,7 +43,7 @@
 
 ##  - Contact Me 📱
 
-- Website - [niraj-shrestha.com](https://niraj-shrestha.com)
+- Website - [Niraj-Stha.com.np](www.niraj-stha.com.np)
 - Discord - [MrWolf#9771](https://invite.gg/xdwolf)
 - Email - mrshrestha@protonmail.com
 
