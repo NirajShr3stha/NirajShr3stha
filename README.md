@@ -51,7 +51,7 @@
   - Vibing to 🎧
 </h3>
 <p align="center">
- <img src=https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default)"/>
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default)"/>
 </p>
 
 <p align="center">
