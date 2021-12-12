@@ -51,8 +51,9 @@
   - Vibing to 🎧
 </h3>
 <p align="center">
-[Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 </p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default&bar_color=ff004c)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
   <a>
