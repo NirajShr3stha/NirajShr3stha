@@ -53,7 +53,7 @@
 <p align="center">
 
 </p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default&bar_color=ff004c)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default&bar_color=ff004c)](https://github.com/kittinan/spotify-github-profile)]
 
 <p align="center">
   <a>
