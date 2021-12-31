@@ -35,7 +35,7 @@
 ## - Gist About me 🖥️ </>
 
 - 🎤 I am a Programming and Networking Enthusiastic
-- 🛸 Learning everyday, currently learning [JS]
+- 🛸 Learning everyday, currently learning [ASP.NET & JAVA]
 - 🌋 I’m always looking for challenging oppurtunities ahead.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
