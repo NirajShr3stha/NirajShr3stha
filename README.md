@@ -15,6 +15,8 @@
    <a href="https://mrshrestha.medium.com/"><img height="30" img src="https://i.ibb.co/SfBFbww/medium.png" alt="medium"></a>&nbsp;&nbsp;
  </p>
  
+ <img width="100%" src="https://raw.githubusercontent.com/nirajxhrestha/nirajxhrestha/master/img/ALL_.png" />
+ 
 <h3> - Languages and Tools... </h3>
 <p align="center">
   <!-- icons  -->
