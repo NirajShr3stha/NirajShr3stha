@@ -41,8 +41,7 @@
 
 ##  - Contact Me 📱
 
-- Website - [Niraj-Stha.com.np](https://www.niraj-stha.com.np)
-- Discord - [ᗰᖇ ᗯᗝᒪᖴ#1798](https://invite.gg/xdwolf)
+- Discord - ᗰᖇ ᗯᗝᒪᖴ#2397
 - Email - mrshrestha@protonmail.com
 
 <h3 align="center">
