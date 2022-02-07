@@ -20,10 +20,10 @@
 <h3> - Languages and Tools... </h3>
 <p align="center">
   <!-- icons  -->
+  <img src="https://i.ibb.co/cLbnXVc/csharp.png" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/4KRXRNK/html.png" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://i.ibb.co/tq9qNLL/js.png" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/vV90CJg/php.png" alt="php" style="vertical-align:top; margin:4px">
-  <img src="https://i.ibb.co/cLbnXVc/csharp.png" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/R6CjcQB/python.png" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/Qm9XSMN/cloud.png" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://i.ibb.co/hyWG6yG/visualstudio-code.png" alt="vscode" style="vertical-align:top; margin:4px">
