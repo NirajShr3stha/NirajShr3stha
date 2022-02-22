@@ -15,7 +15,7 @@
    <a href="https://mrshrestha.medium.com/"><img height="30" img src="https://i.ibb.co/SfBFbww/medium.png" alt="medium"></a>&nbsp;&nbsp;
  </p>
  
- <img width="100%" src="https://raw.githubusercontent.com/nirajxhrestha/nirajxhrestha/master/img/ALL_.png" />
+ <img width="100%" src="https://raw.githubusercontent.com/mrxdwolf/mrxdwolf/master/img/ALL_.png" />
  
 <h3> - Languages and Tools... </h3>
 <p align="center">
@@ -55,19 +55,19 @@
 
 <p align="center">
   <a>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=nirajxhrestha&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=mrxdwolf&theme=react&background=0d1117&border=666">
   </a>
   <br>
   <a>
-    <img src="https://activity-graph.herokuapp.com/graph?username=nirajxhrestha&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=mrxdwolf&theme=react-dark&hide_border=true">
   </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nirajxhrestha&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=mrxdwolf&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 ## <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 #### - Extra Pins 📌
-   ![Card](https://github-readme-stats.vercel.app/api/pin/?username=nirajxhrestha&repo=KEY-AUTH)
+   ![Card](https://github-readme-stats.vercel.app/api/pin/?username=mrxdwolf&repo=KEY-AUTH)
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/nirajxhrestha/nirajxhrestha/45629b990293fd06c9790bbdb8c1f13392c86a56/img/BYE_.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/mrxdwolf/mrxdwolf/45629b990293fd06c9790bbdb8c1f13392c86a56/img/BYE_.svg" />
