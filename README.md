@@ -43,7 +43,7 @@
 
 ##  - Contact Me 📱
 
-- Discord - ᗰᖇ ᗯᗝᒪᖴ#2397
+- Discord - MrWOLF#1337
 - Email - mrshrestha@protonmail.com
 
 <h3 align="center">
