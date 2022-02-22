@@ -67,7 +67,4 @@
 
 ## <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-#### - Extra Pins 📌
-   ![Card](https://github-readme-stats.vercel.app/api/pin/?username=mrxdwolf&repo=KEY-AUTH)
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/mrxdwolf/mrxdwolf/45629b990293fd06c9790bbdb8c1f13392c86a56/img/BYE_.svg" />
