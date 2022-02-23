@@ -48,7 +48,7 @@
 </p>
 
 <h3 align="center">
-  - Vibing to 🎧
+##  - Vibing to 🎧
 </h3>
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default&bar_color=ff004c" alt="spotify" style="vertical-align:top; margin:4px">    
