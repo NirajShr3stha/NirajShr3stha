@@ -43,8 +43,8 @@
 
 ##  - Contact Me 📱
 <p align='center'>
-  <img src="https://i.imgur.com/jK4imhW.png" alt="discord" style="vertical-align:top; margin:4px">
-- Email - mrshrestha@protonmail.com
+  <img src="https://i.imgur.com/jK4imhW.png" alt="discord" style="vertical-align:top; margin:4px"><br>
+  - Email - mrshrestha@protonmail.com
 </p>
 
 <h3 align="center">
