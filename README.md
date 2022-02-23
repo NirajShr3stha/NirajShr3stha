@@ -43,7 +43,7 @@
 
 ##  - Contact Me 📱
 
-- Discord - MrWOLF#1337
+- Discord - <img src="https://i.imgur.com/jK4imhW.png" alt="discord" style="vertical-align:top; margin:4px">
 - Email - mrshrestha@protonmail.com
 
 <h3 align="center">
