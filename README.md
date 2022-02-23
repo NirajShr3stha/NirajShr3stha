@@ -42,9 +42,10 @@
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
 ##  - Contact Me 📱
-<center><img src="https://i.imgur.com/jK4imhW.png" alt="discord" style="vertical-align:top; margin:4px">
+<p align='center'>
+  <img src="https://i.imgur.com/jK4imhW.png" alt="discord" style="vertical-align:top; margin:4px">
 - Email - mrshrestha@protonmail.com
-</center>
+</p>
 
 <h3 align="center">
   - Vibing to 🎧
