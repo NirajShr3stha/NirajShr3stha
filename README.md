@@ -61,6 +61,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=mrxdwolf&theme=react-dark&hide_border=true">
   </a>
 </p>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=mrxdwolf&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 ## <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
