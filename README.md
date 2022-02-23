@@ -10,7 +10,7 @@
 
 <p align='center'>
    <a href="http://13.107.42.14/"><img height="30" src="https://i.ibb.co/K9PXVCp/linkedin.png"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/XDNIRAJ"><img height="30" src="https://i.ibb.co/N2CZJCJ/twitter.png"></a>&nbsp;&nbsp;
+   <a href="https://twitter.com/mrxdwolf"><img height="30" src="https://i.ibb.co/N2CZJCJ/twitter.png"></a>&nbsp;&nbsp;
    <a href="https://open.spotify.com/user/31e6fkz3bfqatdhcgfgqitn5wznm?si=b2e0e5ec4d604659"><img height="30" src="https://i.ibb.co/99DSp1v/spotify.png"></a>&nbsp;&nbsp;
    <a href="https://mrshrestha.medium.com/"><img height="30" img src="https://i.ibb.co/SfBFbww/medium.png" alt="medium"></a>&nbsp;&nbsp;
  </p>
