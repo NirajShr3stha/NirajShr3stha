@@ -60,10 +60,9 @@
   <a>
     <img src="https://activity-graph.herokuapp.com/graph?username=mrxdwolf&theme=react-dark&hide_border=true">
   </a>
-</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mrxdwolf&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-
+</p>
 ## <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/mrxdwolf/mrxdwolf/45629b990293fd06c9790bbdb8c1f13392c86a56/img/BYE_.svg" />
