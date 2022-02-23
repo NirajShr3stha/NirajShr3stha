@@ -62,9 +62,7 @@
   </a>
 </p>
 
-<a align="center">
 ![trophy](https://github-profile-trophy.vercel.app/?username=mrxdwolf&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-</a>
   
 ## <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
