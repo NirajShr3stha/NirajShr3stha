@@ -49,7 +49,7 @@
 
 ##  - Vibing to 🎧
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default&bar_color=ff004c" alt="spotify" style="vertical-align:top; margin:4px">    
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31cdlp6bhidn63svlp6s3p6ssxqe&cover_image=true&theme=default&bar_color=ff004c" alt="spotify" style="vertical-align:top; margin:4px">    
 </p>
 
 <p align="center">
