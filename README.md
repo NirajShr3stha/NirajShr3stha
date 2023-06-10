@@ -43,7 +43,7 @@
 
 ##  - Contact Me 📱
 <p align='center'>
-  - Email - mrshrestha@protonmail.com
+  - Email - contact@niraj-stha.com.np
 </p>
 
 ##  - Vibing to 🎧
