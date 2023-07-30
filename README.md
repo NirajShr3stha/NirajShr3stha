@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<img src="[https://visitor-badge.glitch.me/badge?page_id=nirajxhrestha](https://komarev.com/ghpvc/?username=NirajShr3stha&label=Profile%20views&color=0e75b6&style=flat)"/>
+<img src="https://komarev.com/ghpvc/?username=NirajShr3stha&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 <p align='center'>
