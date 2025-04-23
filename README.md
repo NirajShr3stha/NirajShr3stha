@@ -41,7 +41,7 @@
 
 ##  - Contact Me 📱
 <p align='center'>
-  - Email - Here
+  - Discord UN - xd.wolf
 </p>
 
 ##  - Vibing to 🎧
