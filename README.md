@@ -41,7 +41,7 @@
 
 ##  - Contact Me 📱
 <p align='center'>
-  - Discord - [xd.wolf](https://discord.bio/xdwolf)
+  - Discord - https://discord.bio/xdwolf
 </p>
 
 ##  - Vibing to 🎧
