@@ -44,11 +44,6 @@
   - Discord - https://discord.bio/xdwolf
 </p>
 
-##  - Vibing to 🎧
-<p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cdlp6bhidn63svlp6s3p6ssxqe&cover_image=true&theme=default&show_offline=true&background_color=2a023b&interchange=false&bar_color=f2ff38" alt="spotify" style="vertical-align:top; margin:4px">    
-</p>
-
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=NirajShr3stha&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
